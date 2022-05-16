@@ -1,5 +1,5 @@
 # ICD-11 webinar on implementation strategy and country experiences
-https://www.who.int/news-room/events/detail/2022/05/16/default-calendar/webinar-on-icd-11-implementation-strategy-and-country-experiences  
+[https://www.who.int/news-room/events/detail/2022/05/16/default-calendar/webinar-on-icd-11-implementation-strategy-and-country-experiences](https://www.who.int/news-room/events/detail/2022/05/16/default-calendar/webinar-on-icd-11-implementation-strategy-and-country-experiences)  
 *По этой ссылке обещают опубликовать презентации*  
 
 ---
