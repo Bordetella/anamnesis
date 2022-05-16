@@ -1,14 +1,14 @@
-# [ICD-11 webinar on implementation strategy and country experiences](https://www.who.int/news-room/events/detail/2022/05/16/default-calendar/webinar-on-icd-11-implementation-strategy-and-country-experiences)
-*По этой ссылке обещают опубликовать презентации*
-
-
-#### Слайды
-
-![[2022-05-16_15-55-06.png]]
+# ICD-11 webinar on implementation strategy and country experiences
+https://www.who.int/news-room/events/detail/2022/05/16/default-calendar/webinar-on-icd-11-implementation-strategy-and-country-experiences  
+*По этой ссылке обещают опубликовать презентации*  
 
 ---
-![[2022-05-16_16-01-16.png]]
+#### Слайды
 
+![](2022-05-16_15-55-06.png)
+
+---
+![](2022-05-16_16-01-16.png)
 
 ---
 #### Links
