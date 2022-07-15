@@ -4,4 +4,5 @@
 ---
 Это — место для публикации кусков моего Zettelkasten
 
-[[ICD-11 webinar]]
+- [[ICD-11 webinar]]
+- [[Zotero]]

@@ -2,7 +2,7 @@
 
 ---
 # Zotero
-https://www.zotero.org/
+[Официальный сайт Zotero](https://www.zotero.org/)
 
 ## Почему не Mendeley?
 
@@ -16,7 +16,7 @@ https://www.zotero.org/
 - [Инструкции ВШЭ по настройке Zotero](https://academics.hse.ru/bibliography/zotero_manual) (вряд ли пригодятся)
 - [Zotero connector for Chrome](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=ru)
 - [Стиль цитирования по ГОСТу](https://disk.yandex.ru/d/WdA57Gr11JvIwg)
-- [ZotFile](http://zotfile.com/#how-to-install--set-up-zotfile)
+- [ZotFile](http://zotfile.com/#how-to-install--set-up-zotfile) — переименовывает pdf в соответствии с мета-данными, помогает вытаскивать выделения в pdf, сделанные на планшете
 - www.4shared.com — хранилище на 15гб, в настройках Zotero переключить синхронизацию файлов с "Zotero" на "WebDAV" и ввести:
 	- webdav.4shared.com
 	- логин и пароль зарегистрированного в 4shared аккаунта
